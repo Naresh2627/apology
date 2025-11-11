@@ -2,6 +2,11 @@
 
 A beautiful, interactive React website to express your apology and share precious memories with your loved one.
 
+## 🌐 Live Demo
+[View Live Website](https://apology-naresh.vercel.app)
+
+## 📸 Features Overview
+
 ## Features
 
 ✨ **Interactive Hero Section** - Floating hearts animation with smooth fade-in effects
