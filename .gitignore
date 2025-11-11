@@ -1,5 +1,8 @@
 # Dependencies
 node_modules
+node_modules_backup
+node_modules_backup2
+node_modules_old
 /.pnp
 .pnp.js
 
