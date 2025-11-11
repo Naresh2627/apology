@@ -1,0 +1,28 @@
+📸 ADD YOUR PHOTOS HERE! 📸
+
+Step 1: Copy your photos into this folder
+Step 2: Rename them to match these names:
+
+GALLERY PHOTOS (6 photos):
+✓ photo1.jpg
+✓ photo2.jpg
+✓ photo3.jpg
+✓ photo4.jpg
+✓ photo5.jpg
+✓ photo6.jpg
+
+MEMORY PHOTOS (4 photos):
+✓ memory1.jpg
+✓ memory2.jpg
+✓ memory3.jpg
+✓ memory4.jpg
+
+TIPS:
+- Use .jpg, .jpeg, or .png format
+- Higher quality = better results
+- Recommended size: 800x600 or larger
+- Make sure file names match exactly!
+
+After adding photos, refresh your browser to see them!
+
+Need help? Check HOW_TO_ADD_PHOTOS.md in the main folder.

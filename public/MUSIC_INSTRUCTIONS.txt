@@ -1,0 +1,19 @@
+🎵 ADD YOUR MUSIC HERE! 🎵
+
+Step 1: Get your music file (MP3 format recommended)
+Step 2: Rename it to: music.mp3
+Step 3: Copy it to this folder (public/)
+Step 4: Refresh your website and click the music button!
+
+Your file should be here:
+public/music.mp3
+
+Supported formats: .mp3, .wav, .ogg, .m4a
+
+Tips:
+- Choose a romantic, meaningful song
+- Keep file size under 10MB
+- Music will loop automatically
+- Volume is set to 50% by default
+
+For detailed instructions, see: HOW_TO_ADD_MUSIC.md
