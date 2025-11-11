@@ -1,3 +1,5 @@
+'use client'
+
 import './VideoSection.css'
 
 const VideoSection = () => {
