@@ -9,7 +9,12 @@
     "preview": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
   },
-  "keywords": ["apology", "love", "romantic", "website"],
+  "keywords": [
+    "apology",
+    "love",
+    "romantic",
+    "website"
+  ],
   "author": "Naresh",
   "license": "MIT",
   "dependencies": {
@@ -18,6 +23,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
+    "terser": "^5.44.1",
     "vite": "^5.0.8"
   },
   "engines": {
